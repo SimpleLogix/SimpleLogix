@@ -17,17 +17,24 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Exploring new technologies and developing software solutions
-- 🎓 &nbsp; Comp Sci & Applied Math Degree from Wentworth Institute of Technology (2022)
+#### *Exploring new technologies and developing software solutions*
 
+- 🔭 &nbsp; I mainly build mobile apps and write automation scripts
+- 🎓 &nbsp; Comp Sci & Applied Math Degree from Wentworth Institute of Technology (2022)
+- 
+- In my free time you can find me
+  - 🛹 Longboarding
+  - 🎱 Shooting Pool
+  - 🛠 Building Apps
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Kotlin | Java | Python | Bash | C# 
+- 🌐 &nbsp; HTML
 - 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
+- 🛢 &nbsp; MySQL | Firestore
+- 🔧 &nbsp; Git | Firebase | Spotify API | Android Studio
+- ✏️ &nbsp; ReactJS | Lua | Dart
 
 
 
@@ -35,10 +42,10 @@ Here are some ideas to get you started:
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:arshradhanpura288@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+ - Shoot Me an [Email](mailto:harkouswalid@gmail.com) 💌
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/SimpleLogix)
 
 
 
 
- ⭐️ From [Walid](https://github.com/[onlyArsh])
+ ⭐️ From [Walid](https://github.com/[SimpleLogix])
