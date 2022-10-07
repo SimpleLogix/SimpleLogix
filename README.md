@@ -5,19 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-#### *Exploring new technologies and developing software solutions*
 
 - 🔭 &nbsp; I mainly build mobile apps and write automation scripts
 - 🎓 &nbsp; Comp Sci & Applied Math Degree from Wentworth Institute of Technology (2022)
@@ -26,6 +13,15 @@ Here are some ideas to get you started:
   - 🛹 Longboarding
   - 🎱 Shooting Pool
   - 🛠 Building Apps
+-->
+
+
+#### *Exploring new technologies and developing software solutions*
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+My name is Walid Harkous. I'm a full stack develepor. I build mobile apps and write automation scripts. 
+
 
 <h3>🛠 Tech Stack</h3>
 
@@ -34,7 +30,10 @@ Here are some ideas to get you started:
 - 🎮 &nbsp; Unity
 - 🛢 &nbsp; MySQL | Firestore
 - 🔧 &nbsp; Git | Firebase | Spotify API | Android Studio
-- ✏️ &nbsp; ReactJS | Lua | Dart
+
+Currently learning:
+<br/>
+ - ✏️ &nbsp; ReactJS | Lua | Dart
 
 
 
