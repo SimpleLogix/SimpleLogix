@@ -40,7 +40,7 @@ Currently learning:
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/walid-harkous/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:harkouswalid@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/SimpleLogix)
 
