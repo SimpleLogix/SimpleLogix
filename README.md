@@ -28,7 +28,7 @@ My name is Walid Harkous. I'm a full stack develepor. I build mobile apps and wr
 - 💻 &nbsp; Kotlin | Java | Python | Bash | C# 
 - 🌐 &nbsp; HTML
 - 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | LAMP Stack | Firestore
+- 🛢 &nbsp; MySQL  | Firestore
 - 🔧 &nbsp; Git | Firebase | Spotify API | Android Studio
 
 Currently learning:
