@@ -25,15 +25,15 @@ My name is Walid Harkous. I'm a full stack develepor. I build mobile apps and wr
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Kotlin | Java | Python | Bash | C# 
-- 🌐 &nbsp; HTML
+- 💻 &nbsp; Kotlin/Java | Dart | Python | C# | Shell
+- 🌐 &nbsp; HTML | CSS
 - 🎮 &nbsp; Unity
 - 🛢 &nbsp; MySQL  | Firestore
-- 🔧 &nbsp; Git | Firebase | Spotify API | Android Studio
+- 🔧 &nbsp; Git | Firebase | Google Cloud Services | Android Studio
 
 Currently learning:
 <br/>
- - ✏️ &nbsp; ReactJS | Lua | Dart
+ - ✏️ &nbsp; ReactJS | Lua 
 
 
 
